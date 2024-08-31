@@ -1,0 +1,55 @@
+.card{
+    border: rgb(218, 218, 218) 1px solid;
+    border-radius: 5px;
+    padding: 15px 5px 10px 5px;
+    background-color: white;
+    width: 250px;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(153, 153, 153, 0.137) !important;
+}
+.label{
+    font-size: 1.4rem;
+    font-family:  sans-serif;
+    font-weight: 500;
+}
+.cardimg{
+    width: 200px;
+    border-radius: 5px;
+}
+.price{
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: cursive;
+    color:rgb(0, 0, 44) ;
+}
+.list{
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(61, 61, 61);
+}
+.listdiv{
+    line-height: 0.5;
+    padding-left: 5px;
+}
+.purchase{
+   
+    border: none;
+    border-radius: 5px;
+    padding: 8px 10px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+    margin: 10px;
+}
+.imgheight{
+    height: 180px;
+}
+.purchase1{
+    background-color: rgb(0, 0, 44);
+}
+.purchase2{
+    background-color: rgb(184, 184, 184);
+}
+.purchase3{
+    background-color: rgb(26, 19, 46);
+}

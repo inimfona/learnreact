@@ -1,0 +1,35 @@
+.center{
+  text-align: center;
+}
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  bottom: 80px;
+}
+.plancon{
+  background-color: rgb(2, 111, 212);
+}
+body{
+  padding: 0;
+  margin: 0;
+}
+.plan{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.8rem;
+  padding-top: 20px;
+}
+.Lorem{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 700px;
+  text-align: center;
+  padding-bottom: 100px;
+}
+.flex{
+  display: flex;
+  justify-content: center;
+}
